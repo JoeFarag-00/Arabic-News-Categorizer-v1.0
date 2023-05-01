@@ -100,7 +100,7 @@ Categories include:
 4. Sports
 
 1. First download the [dataset](https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset).
-2. Train the model using the "train.py file", make sure you hooked the correct path to your dataset.
+2. Train the model using the "train.py file", make sure you hooked the correct path to your dataset and stopwords list.
 3. After running the CNN model, run the "classify.py" file and input test articles.
 
 *Make sure the generated cnn_model.h5 and word2vec.model path is hooked to the classify file.
