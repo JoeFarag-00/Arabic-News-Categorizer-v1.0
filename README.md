@@ -95,8 +95,8 @@ For more examples, see the
 The model has a 0.98 accuracy
 Categories include:
 1. Politics
-2. Economy
-3. Entertainment
+2. Entertainment
+3. Economy
 4. Sports
 
 1. First download the [dataset](https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset).
