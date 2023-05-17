@@ -91,6 +91,9 @@ b'Hello, TensorFlow!'
 For more examples, see the
 [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
 
+## Credits
+Original Dataset [SANAD](https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset)
+
 ## Running the project...
 The model has a 0.98 accuracy
 Categories include:
@@ -99,7 +102,7 @@ Categories include:
 3. Economy
 4. Sports
 
-1. First download the [dataset](https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset).
+1. First download the modified [dataset](https://drive.google.com/drive/folders/1tuUSgPN1fskJso1D9ZSOt7WVWg7dFouv).
 2. Train the model using the "train.py file", make sure you hooked the correct path to your dataset and stopwords list.
 3. After running the CNN model, run the "classify.py" file and input test articles.
 
